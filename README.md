@@ -1,0 +1,3 @@
+This project demonstrates API testing using the REST Assured library, leveraging TestNG for test execution and reporting. The tests validate the functionality of RESTful web services, ensuring that APIs respond correctly and meet specified requirements. The project includes example tests that make GET requests to the ReqRes API, verifying response status codes and printing detailed information about the responses.
+
+The goal of this project is to showcase best practices in API testing, including the use of assertions to validate responses and the generation of detailed reports using TestNG. By following the setup instructions and examining the test cases, you can gain a better understanding of how to implement robust API tests using REST Assured and TestNG.
